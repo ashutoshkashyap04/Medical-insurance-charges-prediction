@@ -80,10 +80,15 @@ This indicates that the model explains approximately **80% of the variance** in 
 
 ## 📁 Project Structure
 Medical-insurance-charges-prediction/
+
 │
+
 ├── insurance-charges-prediction.ipynb
+
 ├── insurance-charges.xls
+
 └── README.md
+
 
 
 
