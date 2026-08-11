@@ -54,7 +54,7 @@ if st.button("Predict"):
     }
     
     response = requests.post(
-        "http://127.0.0.1:8000/predict",
+        "https://insurance-charges-api.onrender.com/predict",
         json= data 
     )
     
