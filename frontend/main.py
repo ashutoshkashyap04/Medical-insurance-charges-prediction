@@ -1,5 +1,5 @@
 import streamlit as st
-import requests  # library used to send HTTp requests to server/API
+import requests  # library used to send HTTP requests to server/API
 
 st.title("Medical Insurance Charges Prediction")
 
